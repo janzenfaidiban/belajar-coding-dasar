@@ -1,1 +1,2 @@
-# belajar-coding-dasar
+## Tutorials
+- [Membuat Personal Web Sederhana](https://github.com/janzenfaidiban/belajar-coding-dasar/tree/main/membuat-personal-web-sederhana) -  [▶️Tampilkan Video di Youtube](https://www.youtube.com/watch?v=0ktylCCc27E)
