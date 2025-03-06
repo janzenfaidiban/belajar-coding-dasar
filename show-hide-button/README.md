@@ -1,10 +1,9 @@
 # Show Hide Button
 
 Tutorial ini bertujuan untuk mencapai beberapa sasaran pembelajaran dalam pengembangan web, yaitu:
-
-1. Memahami dasar-dasar manipulasi DOM dengan JavaScript untuk membuat interaksi dinamis
-2. Mempelajari penggunaan CSS untuk animasi dan transisi yang menarik
-3. Mengimplementasikan event handling untuk membuat tombol interaktif
+- Memahami dasar-dasar manipulasi DOM dengan JavaScript untuk membuat interaksi dinamis
+- Mempelajari penggunaan CSS untuk animasi dan transisi yang menarik
+- Mengimplementasikan event handling untuk membuat tombol interaktif
 
 Fitur
 - Tombol interaktif untuk menampilkan/menyembunyikan teks
